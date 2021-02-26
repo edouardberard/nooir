@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'nooir';
-  src: url('test.otf') format("opentype");
+  src: url('NOOIR-Regular.otf') format("opentype");
   
 }
 
@@ -142,6 +142,10 @@ h3.bx{
   font-weight: 100;
   text-decoration: underline;
   
+}
+
+a.linkbx{
+  text-decoration: underline;
 }
 
 /*GRID*/
